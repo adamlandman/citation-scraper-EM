@@ -1,4 +1,4 @@
-var date = "Sun Oct 27 2024 11:28:20 GMT-0400 (Eastern Daylight Time)"
+var date = "Sun Oct 27 2024 18:59:51 GMT-0400 (Eastern Daylight Time)"
 var data = [
   {
     "name": "Adam Landman",
@@ -12,8 +12,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4837",
-        "3659"
+        "4841",
+        "3663"
       ],
       "hindex": [
         "39",
@@ -38,8 +38,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8698",
-        "5941"
+        "8704",
+        "5947"
       ],
       "hindex": [
         "48",
@@ -109,8 +109,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4768",
-        "4206"
+        "4767",
+        "4205"
       ],
       "hindex": [
         "33",
@@ -180,8 +180,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2698",
-        "2617"
+        "2702",
+        "2621"
       ],
       "hindex": [
         "21",
@@ -270,8 +270,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2312",
-        "2015"
+        "2314",
+        "2017"
       ],
       "hindex": [
         "25",
@@ -296,8 +296,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8796",
-        "6051"
+        "8802",
+        "6057"
       ],
       "hindex": [
         "36",
@@ -375,7 +375,7 @@ var data = [
     "stats": {
       "citations": [
         "613",
-        "506"
+        "505"
       ],
       "hindex": [
         "14",
@@ -617,8 +617,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "155",
-        "154"
+        "156",
+        "155"
       ],
       "hindex": [
         "7",
@@ -638,8 +638,8 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "2090",
-        "1834"
+        "2096",
+        "1839"
       ],
       "hindex": [
         "27",
@@ -662,8 +662,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14708",
-        "2418"
+        "14709",
+        "2419"
       ],
       "hindex": [
         "41",
@@ -802,8 +802,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4508",
-        "2646"
+        "4513",
+        "2651"
       ],
       "hindex": [
         "29",
@@ -924,7 +924,7 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1044",
+        "1043",
         "898"
       ],
       "hindex": [
@@ -1092,8 +1092,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6763",
-        "4082"
+        "6764",
+        "4084"
       ],
       "hindex": [
         "31",
@@ -1116,11 +1116,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2832",
-        "2100"
+        "2835",
+        "2103"
       ],
       "hindex": [
-        "27",
+        "28",
         "25"
       ],
       "i10index": [
@@ -1312,8 +1312,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2675",
-        "1971"
+        "2677",
+        "1973"
       ],
       "hindex": [
         "28",
@@ -1338,8 +1338,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "381",
-        "300"
+        "382",
+        "301"
       ],
       "hindex": [
         "11",
@@ -1383,8 +1383,8 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "2244",
-        "1930"
+        "2249",
+        "1934"
       ],
       "hindex": [
         "26",
@@ -1396,5 +1396,31 @@ var data = [
       ]
     },
     "year": "2010"
+  },
+  {
+    "name": "Carlos A Camargo, Jr.",
+    "url": "https://scholar.google.com/citations?user=zkc9pukAAAAJ&hl=en",
+    "affiliation": "Massachusetts General Hospital",
+    "keywords": [
+      "respiratory/allergy disorders",
+      "emergency care",
+      "health services research",
+      "nutrition"
+    ],
+    "stats": {
+      "citations": [
+        "114198",
+        "46531"
+      ],
+      "hindex": [
+        "162",
+        "92"
+      ],
+      "i10index": [
+        "1038",
+        "844"
+      ]
+    },
+    "year": "2000"
   }
 ];
