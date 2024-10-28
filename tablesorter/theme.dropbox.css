@@ -86,7 +86,7 @@
 /* tbody */
 .tablesorter-dropbox td {
 	padding: 5px 6px;
-	line-height: 32px;
+	/*line-height: 32px;*/
 	color: #555;
 	text-align: left;
 	border-top: 1px solid #82cffa;
