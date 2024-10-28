@@ -39,3 +39,10 @@ background-color: #b7dbef;
 span {
 	line-height: 30px;
 }
+h1, h2 {
+	color: #0066cc;
+}
+
+p {
+	font-size: medium;
+}
