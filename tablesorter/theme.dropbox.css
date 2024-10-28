@@ -33,7 +33,7 @@
 .tablesorter-dropbox thead tr,
 .tablesorter-dropbox .tablesorter-headerRow {
 	background-color: #f0f9ff;
-	border-bottom: 1px solid #96c4ea;
+	/*border-bottom: 1px solid #96c4ea;*/
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 0 0 #000000 inset;
 	white-space: normal;
 }
