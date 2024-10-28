@@ -168,7 +168,9 @@ $(document).ready(function() {
   //initial sorting by h-Index and Citations, added no sorting for 1st and 2nd column since sort was incorrect
 $("#stats").tablesorter({
     sortList: [[5, 1], [3, 1]],
-    headers: { 0: { sorter: false }, 1: {sorter: false } }
+    headers: {
+    	0: { sorter: false }, 1: { sorter: false }, 2: { sorter: false }, 4: { sorter: false }, 6: { sorter: false }, 8: { sorter: false }, 9: { sorter: false }
+	}
 });  
 
   // https://stackoverflow.com/questions/6549518/jquery-tablesorter-with-row-numbers
