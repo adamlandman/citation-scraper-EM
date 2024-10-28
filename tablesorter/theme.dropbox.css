@@ -24,9 +24,9 @@
 	border-width: 1px;
 	padding: 5px 6px;
 	font-size: 13px;
-	font-weight: normal;
+	font-weight: bold;
 	line-height: 29px;
-	color: #2281CF;
+	color: #0066cc;
 	text-align: left;
 }
 .tablesorter-dropbox .header,
