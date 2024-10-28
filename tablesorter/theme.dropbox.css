@@ -22,7 +22,7 @@
 	border-color: #82cffa #82cffa #96c4ea;
 	border-style: solid;
 	border-width: 1px;
-	padding: 1px 3px;
+	padding: 5px 6px;
 	font-size: 13px;
 	font-weight: normal;
 	line-height: 29px;
@@ -86,7 +86,7 @@
 /* tbody */
 .tablesorter-dropbox td {
 	padding: 5px 6px;
-	/*line-height: 32px;*/
+	line-height: normal;
 	color: #555;
 	text-align: left;
 	border-top: 1px solid #82cffa;
