@@ -212,3 +212,10 @@
 	cursor: pointer;
 	background-color: #e6bf99;
 }
+
+.keywords {
+	background-color: #f0f9ff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #82cffa;
+}
